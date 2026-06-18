@@ -13,3 +13,5 @@ A dynamic, interactive floating media gallery.
 3. Run `npm run dev` to start the local development server
 
 Made by Y7XIFIED
+
+![Preview Demo](preview.gif)
