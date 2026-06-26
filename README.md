@@ -1,17 +1,13 @@
-# otaku-canvas
+<h3 align="center"><b>OTAKU-CANVAS</b></h3>
 
-A dynamic, interactive floating media gallery.
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Live Demo
-[View Live Deployment](https://otaku-canvas-eta.vercel.app)
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
 
-*(If the custom domain isn't fully propagated, use this [Production URL](https://otaku-canvas-5zb0zewx6-yugank.vercel.app))*
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://otaku-canvas-eta.vercel.app](https://otaku-canvas-eta.vercel.app)
 
-## Local Development
-1. Clone the repository
-2. Run `npm install` to install dependencies
-3. Run `npm run dev` to start the local development server
-
-Made by Y7XIFIED
-
+## Preview
 ![Preview Demo](preview.gif)
+
+<div align="center"><p>Y7XIFIED</p></div>
