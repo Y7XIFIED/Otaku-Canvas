@@ -1,4 +1,4 @@
-<h3 align="center"><b>OTAKU-CANVAS</b></h3>
+<h3 align="center"><b>Otaku-Canvas</b></h3>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
