@@ -1,5 +1,7 @@
 <h3 align="center"><b>OTAKU-CANVAS</b></h3>
 
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
+
 ![Preview Demo](preview.gif)
 
 ## 🚀 Live Website
@@ -62,7 +64,6 @@ otaku-canvas/
 ```
 
 ## 💻 Tech Stack
-<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
 - **HTML5 & CSS3**: Structural vectors and custom styling variables.
 - **JavaScript (ES6)**: Core logic and interactions.
